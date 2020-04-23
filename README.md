@@ -21,4 +21,4 @@ From the original data, the files used for analysis were the following:
 
 Binding the Training and Test sets to their respective labels and subjects and then to each other, the data set allData was created.
 
-Using allData was possible to create tidyData, a data set that contains the average of each variable for each activity and each subject.
+Melting and casting allData was possible to create tidyData, a data set that contains the average of each variable for each activity and each subject.
