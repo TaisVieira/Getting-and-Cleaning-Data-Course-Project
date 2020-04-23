@@ -1,4 +1,4 @@
 This data represents the means of values captured by sensor signals from 79 variables of 6 different activities done by 30 different
 volunteers collected from the accelerometers from the Samsung Galaxy S smartphone.
 
-Each variable has its own name and each row represents a subject and a activity.
+Each variable has its own name and each row represents a subject and an activity.
